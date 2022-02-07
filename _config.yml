@@ -6,7 +6,7 @@
 # --- Required options --- #
 
 # Name of website
-title: Lily's Website
+title: Lily Chu Website
 
 # Short description of your site
 description: A virtual proof that I'm awesome
@@ -21,7 +21,7 @@ navbar-links:
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  Author's home: "https://lily-yoga.com"
 
 # --- Logo --- #
 
