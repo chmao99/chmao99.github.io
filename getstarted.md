@@ -84,14 +84,14 @@ by clicking the Fork button on the top right corner in GitHub.
 
 </div>
 <style>
-{{
+     
 .gs-section-01 h3 { 
      color: red }
 
 .gs-section-01 p {
      font-size: 30px;
 }
-}}
+
 </style>
 
 <div class="gs-section-02" markdown="1">
