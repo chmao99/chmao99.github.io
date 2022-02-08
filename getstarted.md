@@ -83,16 +83,6 @@ by clicking the Fork button on the top right corner in GitHub.
 
 
 </div>
-<style>
-
-.gs-section-01 h3 { 
-     color: red }
-
-.gs-section-01 p {
-     font-size: 30px;
-}
-
-</style>
 
 <div class="gs-section-02" markdown="1">
 ### 2. Rename the project to `<yourusername>.github.io`
@@ -100,16 +90,6 @@ by clicking the Fork button on the top right corner in GitHub.
 Click on __*Settings*__ at the top (the cog icon) and on that page you'll have an option to rename the project (*Repository name*). This will create a website with the **Beautiful Jekyll** template that will be available at `https://<yourusername>.github.io` within a couple minutes (check out the [FAQ](https://beautifuljekyll.com/faq/#custom-domain) if you want to use a different project name). If after a few minutes your website is still not ready, try making any edit to any file, just to force GitHub to re-build your site.
 
 </div>
-<style>
-
-.gs-section-02 h3 { 
-     color: blue }
-
-.gs-section-02 p {
-     font-size: 26px;
-}
-
-</style>
 
 <div class="gs-section-03" markdown="1">
 ### 3. Customize your website settings
@@ -119,7 +99,8 @@ Edit the `_config.yml` file to change any settings you want. To edit the file, c
 Note that in the video above only one setting in the `_config.yml` file is edited. **You should actually go through the rest of the settings as well. Don't be lazy, go through all the settings!**
 
 </div>
-<style>
+
+<style markdown="1">
 
 .gs-section-03 h3 { 
      color: black }
