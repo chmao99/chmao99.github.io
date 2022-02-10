@@ -8,6 +8,7 @@ My name is Lily. I have the following qualities:
 
 - I am a certified yoga coach
 - I'm extremely loyal to daily yoga exercise
+
 What else do you need?
 
 ### My story
