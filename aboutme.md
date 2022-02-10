@@ -1,12 +1,12 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Why you'd want to yoga with me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Lily. I have the following qualities:
 
-- I rock a great mustache
+- I have excised yoga for more than 10 years
 - I'm extremely loyal to my family
 
 What else do you need?
